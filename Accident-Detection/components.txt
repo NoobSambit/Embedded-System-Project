@@ -1,0 +1,34 @@
+Components List
+
+1. Arduino (Uno or Nano)
+   - Purpose: Main controller to run the program logic and manage sensors.
+
+2. ADXL335 Accelerometer
+   - Purpose: Detects sudden changes in motion to sense accidents.
+
+3. LiquidCrystal_I2C (16x2 LCD)
+   - Purpose: Displays real-time magnitude, GPS coordinates, and status.
+
+4. SIM800L GSM Module
+   - Purpose: Sends SMS alerts with GPS location to predefined contact.
+
+5. NEO-6M GPS Module
+   - Purpose: Receives GPS data (latitude and longitude) for location.
+
+6. Buzzer
+   - Purpose: Audio alert when an accident is detected.
+
+7. Push Button
+   - Purpose: Manual reset after accident detection or for testing.
+
+8. Resistors
+   - Purpose: Used for safe button interfacing and signal conditioning.
+
+9. Jumper Wires
+   - Purpose: For connecting modules and components to the Arduino.
+
+10. Power Supply
+    - Purpose: Battery or 12V Adapter for Arduino and modules.
+
+11. Breadboard or PCB
+    - Purpose: For assembling the circuit neatly.

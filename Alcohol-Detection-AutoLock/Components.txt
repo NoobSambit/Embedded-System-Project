@@ -1,0 +1,8 @@
+1x Arduino Uno  
+1x MQ-3 Alcohol Sensor  
+1x Relay Module  
+1x DC Motor  
+1x Buzzer  
+1x LCD Display 16x2  
+Jumper Wires  
+Breadboard  
